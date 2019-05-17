@@ -1,0 +1,7 @@
+# We recommend to install the latest version, 
+nltk
+orderedset
+
+# Otherwise:
+#nltk-3.4.1
+#orderedset-2.0.1
